@@ -1,7 +1,4 @@
 package pages;
-
-import org.testng.reporters.jq.Main;
-
 public class HomePage {
 
     public static void main(String[] args) {
@@ -11,5 +8,6 @@ public class HomePage {
         System.out.println("santosh");
 
         System.out.println("Test");
+        System.out.println("Test2");
     }
 }
